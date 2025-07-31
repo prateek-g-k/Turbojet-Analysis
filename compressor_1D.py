@@ -4,9 +4,9 @@ import math
 gamma = 1.4
 R = 287                          # J/kg-K
 cp = gamma * R / (gamma - 1)     # J/kg-K
-eta_tt = 0.75                    # total-to-total efficiency
+eta_tt = 0.80                    # total-to-total efficiency
 PR = 3.0                         # total pressure ratio
-m_dot = 0.566497                 # kg/s
+m_dot = 0.557171                 # kg/s
 Tt2 = 300                        # K
 Pt2 = 101325                        # Pa
 slip = 0.815                     # Slip factor for 12 blades
